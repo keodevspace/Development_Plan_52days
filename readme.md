@@ -88,8 +88,8 @@ This section provides the detailed content and suggested resources for each part
 
 | Topic | Description | YouTube Video Suggestion |
 | :---- | :---- | :---- |
-| **Modern C\#** | Deep dive into features like **Pattern Matching**, **Records**, and **Nullable Reference Types (NRTs)** to write safer, more concise code. | $$Video Title: C\# 9 and Beyond: The Future of C\#$$ (Link: Placeholder) |
-| **Clean Code & SOLID** | Understand the purpose of each **SOLID** principle (**SRP, OCP, LSP, ISP, DIP**) and how to apply them to reduce technical debt and facilitate refactoring. | $$Video Title: Understanding SOLID Principles in C\#$$ (Link: Placeholder) |
+| **Modern C\#** | Deep dive into features like **Pattern Matching**, **Records**, and **Nullable Reference Types (NRTs)** to write safer, more concise code. |   Video Title: C\# 9 and Beyond: The Future of C\#   |
+| **Clean Code & SOLID** | Understand the purpose of each **SOLID** principle (**SRP, OCP, LSP, ISP, DIP**) and how to apply them to reduce technical debt and facilitate refactoring. |   Video Title: Understanding SOLID Principles in C\#   |
 
 ### **Part 2: API Development (ASP.NET Core, REST, and OpenAPI)**
 
@@ -97,9 +97,9 @@ This section provides the detailed content and suggested resources for each part
 
 | Topic | Description | YouTube Video Suggestion |
 | :---- | :---- | :---- |
-| **ASP.NET Core Architecture** | Mastering the **Middleware pipeline**, configuring services (**DI**), and managing application configuration using the **Options Pattern**. | $$Video Title: ASP.NET Core Middleware and Pipeline Explained$$ (Link: Placeholder) |
-| **RESTful APIs** | Proper use of **HTTP verbs**, **status codes** (200, 201, 400, 404, 500), resource naming conventions, and API versioning strategies. | $$Video Title: Designing Great REST APIs$$ (Link: Placeholder) |
-| **Frontend Connection** | Handling **Cross-Origin Resource Sharing (CORS)** and ensuring **end-to-end type safety** by mapping C\# DTOs to TypeScript interfaces. | $$Video Title: Handling CORS in ASP.NET Core$$ (Link: Placeholder) |
+| **ASP.NET Core Architecture** | Mastering the **Middleware pipeline**, configuring services (**DI**), and managing application configuration using the **Options Pattern**. | Video Title: ASP.NET Core Middleware and Pipeline Explained |
+| **RESTful APIs** | Proper use of **HTTP verbs**, **status codes** (200, 201, 400, 404, 500), resource naming conventions, and API versioning strategies. | Video Title: Designing Great REST APIs |
+| **Frontend Connection** | Handling **Cross-Origin Resource Sharing (CORS)** and ensuring **end-to-end type safety** by mapping C\# DTOs to TypeScript interfaces. | Video Title: Handling CORS in ASP.NET Core|
 
 ### **Part 3: Data and Quality (SQL Server, EF Core, and Testing)**
 
@@ -107,9 +107,9 @@ This section provides the detailed content and suggested resources for each part
 
 | Topic | Description | YouTube Video Suggestion |
 | :---- | :---- | :---- |
-| **SQL Server Performance** | Understanding **Clustered** and **Non-Clustered Indexes**, analyzing **Execution Plans**, and managing **Transactions** and Isolation Levels to prevent data corruption. | $$Video Title: SQL Server Indexes for Developers$$ (Link: Placeholder) |
-| **EF Core Advanced** | Optimizing data access using **Dapper** alongside EF Core, mastering loading strategies (**Eager, Lazy**), and using the **Repository Pattern** to abstract data logic. | $$Video Title: EF Core Performance Tips and Tricks$$ (Link: Placeholder) |
-| **Testing, TDD, and BDD** | Implementing Unit Tests (**Mocking** external dependencies with **Moq**), Integration Tests (using **WebApplicationFactory**), and applying **TDD** and **BDD** methodologies. | $$Video Title: TDD and BDD in .NET Core$$ (Link: Placeholder) |
+| **SQL Server Performance** | Understanding **Clustered** and **Non-Clustered Indexes**, analyzing **Execution Plans**, and managing **Transactions** and Isolation Levels to prevent data corruption. | Video Title: SQL Server Indexes for Developers   |
+| **EF Core Advanced** | Optimizing data access using **Dapper** alongside EF Core, mastering loading strategies (**Eager, Lazy**), and using the **Repository Pattern** to abstract data logic. |   Video Title: EF Core Performance Tips and Tricks   |
+| **Testing, TDD, and BDD** | Implementing Unit Tests (**Mocking** external dependencies with **Moq**), Integration Tests (using **WebApplicationFactory**), and applying **TDD** and **BDD** methodologies. |   Video Title: TDD and BDD in .NET Core   |
 
 ### **Part 4: Architecture, Frontend, and Innovation (DDD, Angular, and AI)**
 
@@ -117,10 +117,10 @@ This section provides the detailed content and suggested resources for each part
 
 | Topic | Description | YouTube Video Suggestion |
 | :---- | :---- | :---- |
-| **Clean Architecture & DDD** | Implementing separation of concerns with **Clean Architecture** (The Dependency Rule) and applying **Domain-Driven Design (DDD)** concepts like **Aggregates**, **Value Objects**, and **Bounded Contexts**. | $$Video Title: The Clean Architecture Explained$$ (Link: Placeholder) |
-| **CQRS and Design Patterns** | Separating **Command** (Write) and **Query** (Read) models using **CQRS** (often implemented with **MediatR**) and applying classic **Design Patterns** (Factory, Strategy) in the application layer. | $$Video Title: Practical CQRS with MediatR in .NET$$ (Link: Placeholder) |
-| **Angular/TypeScript/RxJS** | Deep dive into TypeScript's advanced features and mastering Reactive Programming with **RxJS** (**Observables, switchMap**), and **State Management** concepts for complex Angular applications. | $$Video Title: RxJS Observables Crash Course$$ (Link: Placeholder) |
-| **Artificial Intelligence (AI)** | Understanding how to integrate **Generative AI (GenAI) APIs** into your .NET application, focusing on **Prompt Engineering** to achieve desired outputs. | $$Video Title: Integrating Gemini API with C\#$$ (Link: Placeholder) |
+| **Clean Architecture & DDD** | Implementing separation of concerns with **Clean Architecture** (The Dependency Rule) and applying **Domain-Driven Design (DDD)** concepts like **Aggregates**, **Value Objects**, and **Bounded Contexts**. |   Video Title: The Clean Architecture Explained   |
+| **CQRS and Design Patterns** | Separating **Command** (Write) and **Query** (Read) models using **CQRS** (often implemented with **MediatR**) and applying classic **Design Patterns** (Factory, Strategy) in the application layer. |   Video Title: Practical CQRS with MediatR in .NET   |
+| **Angular/TypeScript/RxJS** | Deep dive into TypeScript's advanced features and mastering Reactive Programming with **RxJS** (**Observables, switchMap**), and **State Management** concepts for complex Angular applications. |   Video Title: RxJS Observables Crash Course   |
+| **Artificial Intelligence (AI)** | Understanding how to integrate **Generative AI (GenAI) APIs** into your .NET application, focusing on **Prompt Engineering** to achieve desired outputs. |   Video Title: Integrating Gemini API with C\#   |
 
 ### **Part 5: DevOps, Cloud, and Scalability (CI/CD, Docker, and Azure)**
 
@@ -128,9 +128,9 @@ This section provides the detailed content and suggested resources for each part
 
 | Topic | Description | YouTube Video Suggestion |
 | :---- | :---- | :---- |
-| **DevOps and CI/CD** | Automating the build, test, and deployment process (**CI/CD**). Advanced **Git** practices (*rebase, cherry-pick*, branching strategies). | $$Video Title: CI/CD Fundamentals for Developers$$ (Link: Placeholder) |
-| **Docker and Cloud** | **Containerizing** your application with **Docker**, understanding Cloud Service Models (**PaaS** is key for .NET), and using services for security (**Key Vaults**). | $$Video Title: Dockerizing a .NET Application$$ (Link: Placeholder) |
-| **Scalability and Monitoring** | Using **Strategic Caching (Redis)** to reduce DB load, ensuring *stateless* architecture for load balancing, and implementing proper **observability** (Structured Logging, Metrics, and *Tracing*). | $$Video Title: Scalability Patterns in Distributed Systems$$ (Link: Placeholder) |
+| **DevOps and CI/CD** | Automating the build, test, and deployment process (**CI/CD**). Advanced **Git** practices (*rebase, cherry-pick*, branching strategies). |   Video Title: CI/CD Fundamentals for Developers   |
+| **Docker and Cloud** | **Containerizing** your application with **Docker**, understanding Cloud Service Models (**PaaS** is key for .NET), and using services for security (**Key Vaults**). |   Video Title: Dockerizing a .NET Application   |
+| **Scalability and Monitoring** | Using **Strategic Caching (Redis)** to reduce DB load, ensuring *stateless* architecture for load balancing, and implementing proper **observability** (Structured Logging, Metrics, and *Tracing*). |   Video Title: Scalability Patterns in Distributed Systems   |
 
 ## **3\. Quick Reference (Daily Cheat Sheet)**
 
